@@ -73,6 +73,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\include\linkedlist.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\linkedlist.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
