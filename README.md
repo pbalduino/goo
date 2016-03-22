@@ -15,7 +15,7 @@ TODO
 Goo means:
 
 * A short and mostly meaningless name, like Foo and Bar
-* Slimy alien substance in Kerbal Space Plan game
+* Slimy alien substance in Kerbal Space Program game
 * It sounds like Gu in Portuguese. Gu is my son =)
 
 ## Current goals
@@ -31,10 +31,20 @@ Goo means:
 * Sets
 * Queues
 * Stacks
+* Deque
+* LazySeq? =)
 
 ## Contribute
 
 * Fork it and send a pull request
+
+## Nice to read
+
+https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf
+
+http://www.lispcast.com/locks-v-concurrency-primitives
+
+http://bartoszmilewski.com/2013/11/13/functional-data-structures-in-c-lists/
 
 ## Author
 Plínio Balduino - Github: @pbalduino
